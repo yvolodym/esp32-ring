@@ -539,6 +539,12 @@
           "label": "Description",
           "name": "Description",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "LCSC",
+          "name": "LCSC",
+          "show": false
         }
       ],
       "filter_string": "",
@@ -590,6 +596,10 @@
     [
       "1f81e754-27ae-476e-a47b-63ee7b14e765",
       "Root"
+    ],
+    [
+      "d9c1ca1f-9609-4271-8008-f6dce5bf188a",
+      "Supply"
     ]
   ],
   "text_variables": {}
