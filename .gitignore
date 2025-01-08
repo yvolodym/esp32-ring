@@ -2,3 +2,6 @@ ring-backups/
 **/fp-info-cache
 build/
 sdkconfig
+**/jlcpcb/
+*.lck
+*_old
