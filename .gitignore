@@ -1,2 +1,4 @@
 ring-backups/
 **/fp-info-cache
+build/
+sdkconfig
